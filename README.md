@@ -9,7 +9,7 @@ Sample query:
 
 {
 
-  <tableName> (<columnName>: icontains=<someString> {
+  <tableName> (<columnName> : icontains=<someString> {
   
     <columnName>
     
